@@ -8,4 +8,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Novell.Directory.Ldap" Version="2.2.1" />
+    </ItemGroup>
+
 </Project>
