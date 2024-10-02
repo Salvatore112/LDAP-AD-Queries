@@ -9,6 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="HtmlAgilityPack" Version="1.11.67" />
       <PackageReference Include="Novell.Directory.Ldap" Version="2.2.1" />
     </ItemGroup>
 
